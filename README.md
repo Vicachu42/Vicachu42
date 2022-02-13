@@ -5,7 +5,7 @@ I'm a Front End Development student with an interest in data analysis and visual
 - 🌱 I’m currently learning React and TypeScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victoria-graf-3a4322131/?locale=en_US)
 - ⚡ Fun fact: I love to crochet, mostly amigurumis. [Current WIP](https://ravel.me/Vicachu/86w11l)
-- 
+
 
 ## Technologies
 
