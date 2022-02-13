@@ -6,7 +6,14 @@ I'm a Front End Development student with an interest in data analysis and visual
 - 📫 How to reach me: [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/victoria-graf-3a4322131/?locale=en_US)
 - ⚡ Fun fact: I love to crochet, mostly amigurumis. [Current WIP](https://ravel.me/Vicachu/86w11l)
 
+## Technologies
+
+![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![image]({BadgeURLHere})
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicachu42&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
