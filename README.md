@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hello World! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicachu42&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+I'm a Front End Development student with an interest in data analysis and visualization. I have a background in journalism, where my main speciality is how media content is produced and packaged to reach a larger audience. I also have a strong interest in data driven journalism, information security, and integrity.
+
+- 🌱 I’m currently learning ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicachu42&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Vicachu42/Vicachu42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
