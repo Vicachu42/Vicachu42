@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicachu42&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Vicachu42/Vicachu42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
