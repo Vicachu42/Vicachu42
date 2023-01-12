@@ -1,8 +1,8 @@
 ### Hello World! 👋
 
-I'm a Front End Developer with an interest in data analysis and visualization. I have a background in journalism, where my main speciality is how media content is produced and packaged to reach a larger audience. I also have a strong interest in data driven journalism, information security, and integrity.
+I'm a Frontend Developer with an interest in data analysis and visualization. I have a background in journalism, where my main speciality is how media content is produced and packaged to reach a larger audience. I also have a strong interest in data driven journalism, information security, and integrity.
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning data analysis
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victoria-graf-3a4322131/?locale=en_US)
 - ⚡ Fun fact: I love to crochet and mostly make [amigurumi](https://www.lovecrafts.com/en-gb/c/article/a-guide-to-amigurumi). Here is my [current WIP](https://ravel.me/Vicachu/aft)
 
