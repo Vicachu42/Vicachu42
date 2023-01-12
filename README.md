@@ -35,7 +35,8 @@ I'm a Front End Developer with an interest in data analysis and visualization. I
 ![image](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicachu42&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicachu42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -55,4 +56,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicachu42&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 -->
