@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I'm a Frontend Developer with an interest in data analysis and visualization. I have a background in journalism, where my main speciality is how media content is produced and packaged to reach a larger audience. I also have a strong interest in data driven journalism, information security, and integrity.
+I'm a Software Engineer with an interest in data analysis and visualization. I have a background in journalism, where my main speciality is how media content is produced and packaged to reach a larger audience. I also have a strong interest in data driven journalism, information security, and integrity.
 
 - 🌱 I’m currently learning .NET and C#
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victoria-graf-3a4322131/?locale=en_US)
