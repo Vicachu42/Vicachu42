@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicachu42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--### Hello World! 👋
 
@@ -18,6 +18,8 @@ I'm a Software Engineer with an interest in data analysis and visualization. I h
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicachu42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 
