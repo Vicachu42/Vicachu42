@@ -1,4 +1,4 @@
-### Hello World! 👋
+<!--### Hello World! 👋
 
 I'm a Software Engineer with an interest in data analysis and visualization. I have a background in journalism, where my main speciality is how media content is produced and packaged to reach a larger audience. I also have a strong interest in data driven journalism, information security, and integrity.
 
@@ -18,7 +18,7 @@ I'm a Software Engineer with an interest in data analysis and visualization. I h
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicachu42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 
